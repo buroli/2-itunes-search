@@ -1,5 +1,6 @@
 {
   "name": "itunes-search",
+  "homepage": "https://buroli.github.io/2-itunes-search",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
